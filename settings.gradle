@@ -1,0 +1,4 @@
+
+include 'eurekaservice','feignclient','feignservice'
+
+rootProject.name = 'SpringCloudLab'
